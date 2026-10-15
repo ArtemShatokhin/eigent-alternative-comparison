@@ -57,6 +57,14 @@ The [Eigent alternatives page](https://eigentalternative.com/eigent-alternatives
 
 Try Kortix at [kortix.com](https://kortix.com), or self-host the open-source stack for free.
 
+## Head-to-head comparisons
+
+Each pair below gets a page drawn from the rival's own live repository or site, so you can check every claim:
+
+- [Eigent vs OpenHands](https://eigentalternative.com/eigent-vs-openhands) — a desktop multi-agent app against a coding-agent control center.
+- [Eigent vs OpenWork](https://eigentalternative.com/eigent-vs-openwork) — two open-source desktop Cowork apps, on where the configuration lives.
+- [Eigent vs Manus](https://eigentalternative.com/eigent-vs-manus) — an open-source local app against a closed, hosted agent.
+
 ## Sources
 
 Rival facts come from each project's own page or repository, checked in October 2026.
